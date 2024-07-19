@@ -1,4 +1,4 @@
-This reposiratory contains React Porjects created by HTML,Tailwind CSS ,REACT amd ROUTES.
+This reposiratory contains React Project created by HTML,Tailwind CSS ,REACT amd ROUTES.
 
 # Blog-Website
 
